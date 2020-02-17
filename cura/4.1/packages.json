@@ -1,0 +1,183 @@
+{
+    "installed": {
+        "BarbarianPlugin": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/BarbarianPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "nallath",
+                    "display_name": "nallath",
+                    "email": "j.vankessel@ultimaker.com",
+                    "website": "http://www.github.com/nallath"
+                },
+                "description": "An extension that enables users to quickly convert models from inches to metric",
+                "display_name": "Barbarian Units",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "BarbarianPlugin",
+                "package_type": "plugin",
+                "package_version": "2.3.0",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "http://www.github.com/nallath"
+            }
+        },
+        "MeshTools": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/MeshTools.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds several mesh analysis and manipulation tools.",
+                "display_name": "Mesh Tools",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MeshTools",
+                "package_type": "plugin",
+                "package_version": "3.5.2",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/fieldOfView/Cura-MeshTools"
+            }
+        },
+        "PauseBackendPlugin": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/PauseBackendPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds a button to the sidebar to toggle automatic slicing.",
+                "display_name": "Automatic Slicing Toggle Switch",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "PauseBackendPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.1",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/fieldOfView/Cura-PauseBackendPlugin"
+            }
+        },
+        "ThingiBrowser": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/ThingiBrowser.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "ChrisTerBekeAuthor",
+                    "display_name": "Chris ter Beke",
+                    "email": "info@christerbeke.com",
+                    "website": "https://christerbeke.com"
+                },
+                "description": "Search, browse and import STL files from Thingiverse directly in Cura.\n\nRelease details can be found on https://github.com/ChrisTerBeke/ThingiBrowser/releases.\n\nThis plugin is not affiliated with Thingiverse or MakerBot.",
+                "display_name": "ThingiBrowser",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "ThingiBrowser",
+                "package_type": "plugin",
+                "package_version": "1.1.3",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.1.0",
+                "website": "https://github.com/ChrisTerBeke/ThingiBrowser"
+            }
+        },
+        "VersionInTitlebarPlugin": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/VersionInTitlebarPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds the application version and the current jobname to the titlebar",
+                "display_name": "Titlebar Info",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "VersionInTitlebarPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.2",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/fieldOfView/Cura-VersionInTitlebarPlugin"
+            }
+        },
+        "ZOffsetPlugin": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/ZOffsetPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds a Z Offset setting to change the distance between the nozzle and the buildplate.",
+                "display_name": "Z Offset Setting",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "ZOffsetPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.3",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/fieldOfView/Cura-ZOffsetPlugin"
+            }
+        },
+        "colorfabb_colorondemand": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/colorfabb_colorondemand.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "colorFabb_team",
+                    "display_name": "colorFabb",
+                    "email": "support@colorfabb.com",
+                    "website": "https://colorfabb.com/"
+                },
+                "description": "Easy to print premium PLA, available in 100+ RAL colors and custom colors starting at 2kg MOQ.",
+                "display_name": "Color On Demand",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "colorfabb_colorondemand",
+                "package_type": "material",
+                "package_version": "1.1.0",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://colorfabb.com/color-on-demand"
+            }
+        },
+        "colorfabb_woodfill": {
+            "filename": "/Users/justin/Library/Application Support/cura/4.1/cache/cura_packages/colorfabb_woodfill.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "colorFabb_team",
+                    "display_name": "colorFabb",
+                    "email": "support@colorfabb.com",
+                    "website": "https://colorfabb.com/"
+                },
+                "description": "If you\u2019re looking for something special in your filament portfolio then consider our woodFill filament. About 70% colorfabb PLA and 30% recycled woodfibers. Parts will no longer feel like regular plastic but will give a much more exclusive look and feel. ",
+                "display_name": "woodFill",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "colorfabb_woodfill",
+                "package_type": "material",
+                "package_version": "1.1.0",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://colorfabb.com/woodfill"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
